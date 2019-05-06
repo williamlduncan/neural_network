@@ -1,1 +1,5 @@
 This project is done in collaboration with Caio Vigo. 
+
+The project uses two datasets (one on breast cancer and one on income) with binary outcomes. The neural network trains on 
+80 percent of the data and tests on 20 percent of the data in each dataset. The neural network is trying to predict the binary 
+outcome using the attributes in each dataset. 
